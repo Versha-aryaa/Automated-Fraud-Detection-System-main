@@ -1,9 +1,6 @@
 # Automated Fraud Detection System 
 
 
-![gifgit](https://user-images.githubusercontent.com/88341388/226695241-221b3a90-33fc-4635-a935-5e92da4a7080.gif)
-
-
 
 
 ### Background: 
@@ -32,6 +29,3 @@ Deep learning models are often considered "black boxes" because they are difficu
 ### Conclusion: 
 The proposed automated fraud detection system using deep learning techniques will help businesses prevent financial losses and protect their reputation. It will be an essential tool for e-commerce platforms, financial institutions, and other businesses that deal with online transactions.
 
-### Final Deployment 
-
-https://huggingface.co/spaces/ameya123ch/fraud_detection
